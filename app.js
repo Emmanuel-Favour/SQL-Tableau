@@ -3,7 +3,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/app/profile/dink.wiz/viz/Squirrels_15746293266160/Dashboard1";
+const url = "https://public.tableau.com/views/Squirrels_15746293266160/Dashboard1?:display_count=y&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
